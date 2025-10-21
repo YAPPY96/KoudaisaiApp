@@ -1,2 +1,0 @@
-# KoudaisaiApp
-工大祭アプリ用にjsonとimageを置くところ
