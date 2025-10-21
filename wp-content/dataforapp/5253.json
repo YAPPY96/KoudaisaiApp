@@ -1,0 +1,260 @@
+{
+  "room5211": {
+    "buildingName": "52・53号館",
+    "eventName": "工大祭ライブ",
+    "time": "10:00 - 16:00",
+    "description": "MKCのバンドがライブをします！邦ロックをはじめとして、様々なジャンルの名曲を演奏します。どんな人でも楽しめることも違いなし！ぜひお越しください！ ",
+    "date": "両日",
+    "image": "5253_5211.webp",
+    "groupName": "MKC",
+    "X": "https://x.com/mkcoidemase?s=11&t=j66HKbmZ7p2x9cufsFXdvw",
+    "instagram":"https://www.instagram.com/mkc_rock?igsh=enNvOHFqd3h5aHhw"
+  },
+  "room5212": {
+    "buildingName": "52・53号館",
+    "eventName": "Round Midnight ",
+    "time": "10:00 - 16:00",
+    "description": "ジャズライブとセッションを行います！ 椅子がたくさんあるので休憩、飲食できます！ 5212講義室に気軽にお立ち寄りください！ ",
+    "date": "両日",
+    "image": "5253_5212.webp",
+    "groupName": "第一軽音楽部A.F.Q ",
+    "X": "https://x.com/afqdayo "
+  },
+  "room5213": {
+    "buildingName": "52・53号館",
+    "eventName": "美術部展示会「空想」",
+    "time": "10:00 - 16:00",
+    "description": "空想をテーマに各々制作した作品を展示します ",
+    "date": "両日",
+    "image": "5253_5213.webp",
+    "groupName": "美術部",
+    "snsLink": "art_club@NIT "
+  },
+  "room5214": {
+    "buildingName": "52・53号館",
+    "eventName": "PMC祭ん 工大祭ライブ ",
+    "time": "10:00 - 16:00",
+    "description": "工大祭に足を運んだ方、ぜひ52号館1階の一番奥の部屋「5214講義室」 にお越しください!!! 楽しいライブをしています！",
+    "date": "両日",
+    "image": "5253_5214.webp",
+    "groupName": "PMC祭ん",
+    "instagram": ":https://www.instagram.com/pmcmatsurin/?igsh=MTI3ejVlN3dycW5icA%3D%3D# "
+  },
+  "room5215": {
+    "buildingName": "52・53号館",
+    "eventName": "「#nitechphoto」写真展＆撮影会＆活動記録 ",
+    "time": "10:00 - 16:00",
+    "description": "名工大の写真サークルです！ 写真展ではサークル・名工大内から集まった写真を展示します！ 活動記録では機材紹介としてサークル員の撮影機材や、名古屋の撮影スポットの紹介をします！ 詳細はSNSをご確認ください！",
+    "status":"true",
+    "date": "両日",
+    "image": "5253_5215.webp",
+    "groupName": "写真サークル ",
+    "X": "https://x.com/nitechphoto"
+  },
+  "room5216": {
+    "buildingName": "52・53号館",
+    "eventName": "素数大富豪体験会！ ",
+    "time": "10:00 - 16:00",
+    "description": "初心者でもOK！ 素数大富豪のルール説明や、実際にプレイする場を設けます！ 素数大富豪を一緒に楽しみましょう！ ",
+    "date": "両日",
+    "image": "5253_5216.webp",
+    "groupName": "素数大富豪同好会 ",
+    "X": "https://x.com/prime_nitech "
+  },
+  "room5217": {
+    "buildingName": "52・53号館",
+    "eventName": "暴走する知能 - 閉ざされた研究施設からの脱出 ",
+    "time": "10:00 - 16:00",
+    "description": "あなたは世界最先端のAI研究地区「ハルモニア」の見学ツアーに参加した。そのツアー終盤、突如施設内に警報が鳴り響き、あなたたちは警備ロボットに追われることとなってしまった。 閉ざされた施設から脱出する方法は、あなたたちが乗ってきた小型飛行機のみ。脱出の手助けをしてくれるアンドロイド「イノ」と協力しながら、6つの謎を解いて施設のシステムにアクセスし、警備ロボットの追跡から逃れながら脱出を目指せ！  ",
+    "date": "両日",
+    "image": "5253_5217.webp",
+    "groupName": "WakKnot ",
+    "instagram": ":https://www.instagram.com/wakknot?igsh=a201aWNtZ2luYWt3&utm_source=qr ",
+    "X":"https://x.com/wakknot"
+  },
+  "room5221": {
+    "buildingName": "52・53号館",
+    "eventName": "ゲームセンターNITMic ",
+    "time": "10:00 - 16:00",
+    "description": "ゲームセンターNITMic（にとみく）では部員が制作したゲームを遊ぶことができます！新作から過去作まで幅広く取り揃えています！ 今年もNITMic部誌（部の雑誌）“NITMic Archives”を頒布します！見本もあります！　ぜひ遊びに来てください！！  ",
+    "date": "両日",
+    "image": "5253_5221.webp",
+    "groupName": "コンピュータ倶楽部NITMic ",
+    "snsLink": "https://nitmic.club.nitech.ac.jp",
+    "X":"https://x.com/nitmic_twi"
+  },
+  "room5222": {
+    "buildingName": "52・53号館",
+    "eventName": "成果物披露 ",
+    "time": "10:00 - 16:00",
+    "description": "部員のビジネスプラン発表、部内で開催したイベントの再演など。\n団体紹介： 名工大公認起業部として活動しています！ 外部のビジネスプランコンテストに出場したり、部内で勉強会を開いたりしています！  ",
+    "date": "両日",
+    "image": "5253_5222.webp",
+    "groupName": "NaSH ",
+    "X": "https://x.com/NaSH_Room2021",
+    "instagram":"https://www.instagram.com/nash_nitech.18/ "
+  },
+  "room5223": {
+    "buildingName": "52・53号館",
+    "eventName": "鉄道の街へようこそ！ ",
+    "time": "10:00 - 16:00\n（ミニＳＬは機関車の状態により開始時間及び終了時間が多少前後する可能性があります.）  ",
+    "description": "名工大鉄研ではミニＳＬの運転をはじめ鉄道模型や鉄道廃品の展示等を行っています！ぜひお越しください！！ ",
+    "date": "両日",
+    "image": "5253_5223.webp",
+    "groupName": "鉄道研究会 ",
+    "url": "https://rfc-nite.ch/",
+    "X":"https://twitter.com/nit_rfc"
+  },
+  "room5224": {
+    "buildingName": "52・53号館",
+    "eventName": "",
+    "time": "10:00 - 16:00",
+    "description": "",
+    "date": "両日",
+    "image": "5253_5224.webp",
+    "groupName": "",
+    "snsLink": ""
+  },
+  "room5225": {
+    "buildingName": "52・53号館",
+    "eventName": "3Dシアター上映室 ",
+    "time": "10:00 - 16:00",
+    "description": "CGで製作した映像を自作の3Dシアターで上映します 宇宙など、見応えのある映像を製作中ですので、是非ご覧ください！ 上映時間はX(旧Twitter)で告知いたします。 ",
+    "date": "両日",
+    "image": "5253_5225.webp",
+    "groupName": "3D総合技術研究会 ",
+    "X": "https://x.com/3DRI_N_lab?t=gcx7qGRopGWATvmW-2nhdQ&s=09 "
+  },
+  "room5226": {
+    "buildingName": "52・53号館",
+    "eventName": "C0de展 ",
+    "time": "10:00 - 16:00",
+    "description": "名工大のプログラミング部C0deの普段の活動紹介や、制作物展示を行います！プログラミングに興味のある方、C0deの活動に興味のある方はぜひお越しください！また、C0de部員と対決する『VSC0de』企画も行います！打倒C0deを目指して頑張ってください！ ",
+    "date": "両日",
+    "image": "5253_5226.webp",
+    "groupName": "C0de ",
+    "X": "https://x.com/c0demattari "
+  },
+  "room5227": {
+    "buildingName": "52・53号館",
+    "eventName": "世界のボードゲーム展示会 ",
+    "time": "10:00 - 16:00",
+    "description": "世界のボードゲームを展示します。展示してあるものは鑑賞したり実際に遊んだりすることができます。スタッフがルールや遊び方を教え、人が足りなければ混じることも出来ますので気軽にご参加ください。  ",
+    "date": "両日",
+    "image": "5253_5227.webp",
+    "groupName": "名工大ボードゲームSLG友の会 ",
+    "X": "https://x.com/nit_slg_bodoge "
+  },
+  "room5228": {
+    "buildingName": "52・53号館",
+    "eventName": "",
+    "time": "10:00 - 16:00",
+    "description": "",
+    "date": "両日",
+    "image": "5253_5228.webp",
+    "groupName": "",
+    "snsLink": ""
+  },
+  "room5231": {
+    "buildingName": "52・53号館",
+    "eventName": "League NitPoke 2025 ",
+    "time": "10:00 - 16:00",
+    "description": "『ポケモンスカーレット・バイオレット』を用いたシングルバトルの対戦企画です。4人のタイプマスターとチャンピオンに勝利したチャレンジャーは、賞品を獲得できます！自慢のポケモンで挑戦しよう！詳しいルールはXの方をご覧ください。 ",
+    "date": "両日",
+    "image": "5253_5231.webp",
+    "groupName": "ポケモンサークルNitPoke ",
+    "snsLink": ""
+  },
+  "room5232": {
+    "buildingName": "52・53号館",
+    "eventName": "キャチロボ及びロボマスター機体展示 ",
+    "time": "10:00 - 16:00",
+    "description": "2025年キャチロボバトルコンテストに出場した機体、及びRoboMaster North America 2025に出場予定であった機体の展示、操作体験を行います．  ",
+    "date": "両日",
+    "image": "5253_5232.webp",
+    "groupName": "ロボコン工房 ",
+    "X": "https://x.com/nit_robocon "
+  },
+  "room5233": {
+    "buildingName": "52・53号館",
+    "eventName": "レスキューロボットの操縦を体験してみよう！！ ",
+    "time": "10:00 - 16:00",
+    "description": "レスキューロボットの操縦体験。ロボットやパーツの展示。 ",
+    "date": "両日",
+    "image": "5253_5233.webp",
+    "groupName": "レスキューロボットプロジェクトSAZANKA ",
+    "X": "https://x.com/nitechpc "
+  },
+  "room5234": {
+    "buildingName": "52・53号館",
+    "eventName": "",
+    "time": "10:00 - 16:00",
+    "description": "ガンプラ等の模型を展示します。 ",
+    "date": "両日",
+    "image": "5253_5234.webp",
+    "groupName": "模型同好会 ",
+    "X": "https://x.com/NitechMC285 "
+  },
+  "room5235": {
+    "buildingName": "52・53号館",
+    "eventName": "不完全な脱出ゲームからの脱出 ",
+    "time": "１日目：10:30~,12:00~,13:30~,15:00~ \n２日目：10:20~,11:40~,13:00~,14:20~ ",
+    "description": "工大祭に出展するはずだった我々の脱出ゲームがついに完成…してない！？どうやら準備が間に合わず、不完全で何かがおかしい脱出ゲームになってしまったらしい。果たして、あなたはこの“不完全な脱出ゲーム”の謎を解き明かし、無事に脱出することができるのか？ ",
+    "date": "両日",
+    "image": "5253_5235.webp",
+    "groupName": "名工大謎解きサークル Qlock ",
+    "X": "https://x.com/nitech_nztk?s=21&t=vqb6KS60paTeIgVMunZcJg"
+  },
+  "room5236": {
+    "buildingName": "52・53号館",
+    "eventName": "早押しクイズ体験会 ",
+    "time": "10:00 - 16:00",
+    "description": "皆様に「クイズの楽しさ」を体感していただくため、クイズ研究会は早押しクイズ体験会を実施いたします。参加者の皆様には、早押しボタンというツールを通じた、特別な時間を提供いたします。 \nシンプルなクイズの他にイントロクイズもご用意しており、誰でも気軽に挑戦できる内容となっております。ぜひ5236講義室に来てください！！ ",
+    "date": "両日",
+    "image": "5253_5236.webp",
+    "groupName": "クイズ研究会 ",
+    "X": "https://x.com/nitech_niq",
+    "instagram":"https://www.instagram.com/nitecq/"
+  },
+  "room5237": {
+    "buildingName": "52・53号館",
+    "eventName": "夜空は、あなたのそばに。 ",
+    "time": "10:00 - 16:00",
+    "description": "名工大天文部です！部員が撮った写真や当日の夜空を映したプラネタリウムを展示します。工大祭では実際の夜空を体験することはできませんが、展示物を通して、その一部を感じていただけたら嬉しく思います。(プラネタリウムは予約制になります。詳細はSNSをご覧ください。) ",
+    "date": "両日",
+    "image": "5253_5237.webp",
+    "groupName": "天文部 ",
+    "instagram": "https://www.instagram.com/nitechast/",
+    "X":"https://x.com/nitechast"
+  },
+  "room5238": {
+    "buildingName": "52・53号館",
+    "eventName": "部誌の販売",
+    "time": "10:00 - 16:00",
+    "description": "企画内容は部誌の販売で部員のかいたイラストを本にして５００円くらいで売ります。 ",
+    "date": "両日",
+    "image": "5253_5238.webp",
+    "groupName": "漫画研究部 ",
+    "snsLink": ""
+  },
+  "roomYUME": {
+    "buildingName": "52・53号館",
+    "eventName": "フラワー工作",
+    "time": "10:00 - 16:00",
+    "description": "",
+    "date": "2025-11-15,16",
+    "image": "5253_flower.webp",
+    "groupName": "",
+    "snsLink": ""
+  },
+  "room": {
+    "buildingName": "",
+    "eventName": "",
+    "time": "",
+    "description": "",
+    "date": "",
+    "image": "",
+    "groupName": "",
+    "snsLink": ""
+  }
+}

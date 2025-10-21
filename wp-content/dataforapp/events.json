@@ -1,0 +1,485 @@
+[
+    {
+        "buildingName": "Information",
+        "eventName": "謎解きWALK",
+        "time": "10:00 ~ 16:00(16:00新規受付終了)",
+        "description": "名工大をまわり、謎を解こう!!小学生でもできる難易度EASY「古墳マンと歩こう!」としっかり楽しめる難易度HARD「消えた友人を追って。」の二つの難易度があります。キットの指示に従って名工大を歩き、謎を解こう。 \n全て解き終わったら正門前に提出してください。  ",
+        "date": "2025-11-15",
+        "image_L": "event_nazotokiL.webp",
+        "image_B":"event_nazotokiB.webp",
+        "status":true,
+        "groupName": "工大祭実行委員会",
+        "snsLink": "",
+        "reservation": false,
+        "caution": "謎は立入禁止の場所には隠されていないので探さないこと。 \n設置された謎の移動や落書きをしないこと。 \n危険なので歩きながら謎を解かないこと。 \n難易度HARDはスマートフォンが必須です。 ",
+        "others": "ヒント等は、正門前受付で聞くことができます。 "
+    },
+    {
+        "buildingName": "Information",
+        "eventName": "謎解きWALK",
+        "time": "10:00 ~ 16:00(15:00新規受付終了) ",
+        "description": "名工大をまわり、謎を解こう!!小学生でもできる難易度EASY「古墳マンと歩こう!」としっかり楽しめる難易度HARD「消えた友人を追って。」の二つの難易度があります。キットの指示に従って名工大を歩き、謎を解こう。 \n全て解き終わったら正門前に提出してください。  ",
+        "date": "2025-11-16",
+        "image_L": "event_nazotokiL.webp",
+        "image_B": "event_nazotokiB.webp",
+        "groupName": "工大祭実行委員会",
+        "snsLink": "",
+        "reservation": false,
+        "caution": "謎は立入禁止の場所には隠されていないので探さないこと。 \n設置された謎の移動や落書きをしないこと。 \n危険なので歩きながら謎を解かないこと。 \n難易度HARDはスマートフォンが必須です。 ",
+        "others": "ヒント等は、正門前受付で聞くことができます。 "
+    },
+    {
+        "buildingName": "4号館",
+        "eventName": "ブース展",
+        "time": "10:00 - 16:00",
+                "status":true,
+        "description": "・POLA THE BEAUTY：1.ハンドトリートメント2.肌分析(ライト分析)\n・椙山女学園易学研究会：1.占い(手相、タロット、筮竹)\n・ナゴ校WinDra：1.WinDraチャレンジ",
+        "date": "2025-11-15",
+        "image_B": "event_boothB.webp",
+        "image_L": "event_boothL.webp",
+        "groupName": "POLA,椙山女学園易学研究会,ナゴ校WinDra",
+        "snsLink": "",
+        "reservation": false
+    },
+    {
+        "buildingName": "4号館",
+        "eventName": "ブース展",
+                "status":true,
+        "time": "10:00 - 16:00",
+        "description": "・POLA THE BEAUTY：1.ハンドトリートメント2.肌分析(ライト分析)\n・椙山女学園易学研究会：1.占い(手相、タロット、筮竹)\n・ナゴ校WinDra：1.WinDraチャレンジ",
+        "date": "2025-11-16",
+        "image_B": "event_boothB.webp",
+        "image_L": "event_boothL.webp",
+        "groupName": "POLA,椙山女学園易学研究会,ナゴ校WinDra",
+        "snsLink": "",
+        "reservation": false
+    },
+    {
+        "buildingName": "1号館前",
+        "eventName": "NITech Pavilion Exhibition 2025",
+        "time": "10:00 - 16:00",
+        "description": "本エキシビションで展示するNITech Pavilionは、かたちを超えて「絆を結ぶ場」として構想・制作されました。展示期間中は、来場者が誰でも気軽に腰を下ろし、共に座る人や場の空気、そしてPavilionそのものとのつながりを体験できます。 また、限られた時間の思い出をかたちに残すために、記念撮影用のインスタントカメラとフィルムをご用意しております。 このひとときを写真に刻み、出会いの記憶としてお持ち帰りください。 そこで生まれる絆が、長く心に響き続けることを願っています。 ぜひ、この一瞬を共に体験してください！  ",
+        "date": "2025-11-15",
+        "image_B": "event_pavilionB.webp",
+        "image_L": "event_pavilionL.webp",
+        "groupName": "主催：名古屋工業大学 建築・デザイン分野 設計・制作：建築・デザイン分野 学部1年生 \n協賛：公益財団法人服部国際奨学財団",
+        "snsLink": "",
+        "reservation": false,
+        "others": "",
+        "caution": ""
+    },
+    {
+        "buildingName": "1号館",
+        "eventName": "NITech Pavilion Exhibition 2025",
+        "time": "10:00 - 15:30",
+                "status":true,
+        "description": "本エキシビションで展示するNITech Pavilionは、かたちを超えて「絆を結ぶ場」として構想・制作されました。展示期間中は、来場者が誰でも気軽に腰を下ろし、共に座る人や場の空気、そしてPavilionそのものとのつながりを体験できます。 また、限られた時間の思い出をかたちに残すために、記念撮影用のインスタントカメラとフィルムをご用意しております。 このひとときを写真に刻み、出会いの記憶としてお持ち帰りください。 そこで生まれる絆が、長く心に響き続けることを願っています。 ぜひ、この一瞬を共に体験してください！  ",
+        "date": "2025-11-16",
+        "image_B": "event_pavilionB.webp",
+        "image_L": "event_pavilionL.webp",
+        "groupName": "主催：名古屋工業大学 建築・デザイン分野 設計・制作：建築・デザイン分野　学部1年生 協賛：公益財団法人服部国際奨学財団",
+        "snsLink": "",
+        "reservation": false,
+        "others": "",
+        "caution": ""
+    },
+    {
+        "buildingName": "NITech-Hall",
+        "eventName": "声優トークショー",
+        "time": "14:00 - 15:00 (開場時間: 13:00〜)",
+        "description": "レジェンド声優、堀川りょうさんと宮村優子さんのお二人に出演していただきます!! 以下のチケット欄も併せてチェック!!(本企画は事前にイープラスにてチケットを購入する必要があります。なおチケット購入URLは近日中にご案内いたします。)",
+        "date": "2025-11-15",
+        "image_B": "event_seiyuB.webp",
+        "image_L": "event_seiyuL.webp",
+        "groupName": "",
+        "snsLink": "",
+        "reservation": false,
+        "others": "名工大生チケットを購入した方は、当日学生証の掲示が必要です。\n名工大生と確認が取れなかった場合は差額をお支払いいただきます。\n名工大生チケットの不斉購入には厳正に対処いたします。",
+        "caution": "撮影・録音などの記録行為は禁止とします。\n公演中、携帯電話などの電子機器は電源をお切りいただくか、マナーモードにするなど周りのお客様へのご配慮をお願いします。\n会場内での水分補給を除く飲食は禁止です。\n主催者および出演者は、会場内外でのお荷物の紛失や盗難に対し一切の責任を負いません。\n工大祭STAFFの指示に従わない場合は、退場していただく場合や、公演が中断もしくは中止する場合もございます。"
+    },
+    {
+        "buildingName": "Stage",
+        "eventName": "ステージ企画",
+        "time": "10:00 - 18:30",
+        "description": "様々な企画が2号館前のStageで開催されます",
+        "date": "2025-11-15",
+        "image_L": "",
+        "image_B": "",
+        "groupName": "",
+        "snsLink": "",
+        "reservation": false,
+        "others": "",
+        "caution": ""
+    },
+    {
+        "buildingName": "Stage",
+        "eventName": "ステージ企画",
+        "time": "10:00 - 18:30",
+        "description": "様々な企画が2号館前のStageで開催されます",
+        "date": "2025-11-16",
+        "image_B": "",
+        "image_L": "",
+        "groupName": "",
+        "snsLink": "",
+        "reservation": false,
+        "others": "",
+        "caution": ""
+    },
+    {
+        "buildingName": "19号館",
+        "eventName": "研究室紹介",
+        "time": "10:00-16:00",
+        "description": "研究室出展企画では、工大祭で名古屋工業大学に興味を持った来場者の方に各研究室で行われている研究について知ってもらう機会を作るため、研究室の研究成果を示す展示企画や研究室の見学ツアー企画を行います。(展示企画は予約不要です)",
+        "date": "2025-11-15",
+        "image_L": "",
+        "image_B": "",
+        "groupName": "",
+        "status":false,
+        "snsLink": "",
+        "reservation": true,
+        "others": "※開催場所:\n展示企画：19号館1階日東工業ラウンジ\n見学ツアー企画受付：19号館前テント\n見学ツアー企画：各研究室",
+        "caution": "展示企画・展示物を勝手に触るのはおやめください。\n見学ツアー企画\n・所要時間は約1時間を予定しております。\n・参加には19号館前テントでの当日予約が必要です。\n・高校生未満の方が参加される場合、大人1名以上の付き添いが必要となります。",
+        "reservationSlots": [
+            {
+                "time": "10:30",
+                "status": "few_left"
+            },
+            {
+                "time": "11:30",
+                "status": "few_left"
+            },
+            {
+                "time": "12:30",
+                "status": "available"
+            },
+            {
+                "time": "13:30",
+                "status": "full"
+            },
+            {
+                "time": "14:30",
+                "status": "available"
+            }
+        ]
+    },
+    {
+        "buildingName": "19号館",
+        "eventName": "研究室紹介",
+        "time": "10:00-15:30",
+        "description": "研究室出展企画では、工大祭で名古屋工業大学に興味を持った来場者の方に各研究室で行われている研究について知ってもらう機会を作るため、研究室の研究成果を示す展示企画や研究室の見学ツアー企画を行います。(展示企画は予約不要です)",
+        "date": "2025-11-16",
+        "image_B": "",
+        "image_L": "",
+        "groupName": "",
+        "snsLink": "",
+        "status":true,
+        "reservation": true,
+        "others": "※開催場所:\n展示企画：19号館1階日東工業ラウンジ\n見学ツアー企画受付：19号館前テント\n見学ツアー企画：各研究室",
+        "caution": "展示企画・展示物を勝手に触るのはおやめください。\n見学ツアー企画\n・所要時間は約1時間を予定しております。\n・参加には19号館前テントでの当日予約が必要です。\n・高校生未満の方が参加される場合、大人1名以上の付き添いが必要となります。",
+        "reservationSlots": [
+            {
+                "time": "10:30",
+                "status": "available"
+            },
+            {
+                "time": "11:30",
+                "status": "few_left"
+            },
+            {
+                "time": "12:30",
+                "status": "available"
+            },
+            {
+                "time": "13:30",
+                "status": "available"
+            },
+            {
+                "time": "14:30",
+                "status": "available"
+            }
+        ]
+    },
+    {
+        "buildingName": "12号館",
+        "eventName": "お化け屋敷～血塗られた教室～",
+        "time": "10:00 - 16:00",
+        "description": "あなたはこの教室から生きて出られるか...",
+        "date": "2025-11-15",
+        "image_B": "event_obakeB.webp",
+        "image_L": "event_obakeL.webp",
+        "groupName": "",
+        "snsLink": "",
+        "reservation": false,
+        "caution": "注意事項・小学生未満の方は保護者同伴でのご参加をお願いします。\n・大きなお手荷物は受付にてお預かりいたします。\n・心臓に疾患のある方、1人での移動が困難な方、妊娠中の方はご参加をお控えください。\n・お化け屋敷内で抱っこ、おんぶはしないでください。\n・お化け屋敷内で走ったり、仕掛けに触れたりしないでください。\n・リタイアを希望する場合は、近くにいるスタッフにお声掛けください。\n・ゴールした後は、懐中電灯を返却し、荷物を預けた場合は荷物を受け取るために受付に戻るようにしてください。\n・お化け屋敷内でのスマホの使用禁止",
+        "others": ""
+    },
+    {
+        "buildingName": "12号館",
+        "eventName": "お化け屋敷～血塗られた教室～",
+        "time": "10:00 - 15:30",
+        "description": "あなたはこの教室から生きて出られるか...",
+        "date": "2025-11-16",
+        "image_B": "event_obakeB.webp",
+        "image_L": "event_obakeL.webp",
+        "groupName": "",
+        "snsLink": "",
+        "reservation": false,
+        "caution": "注意事項・小学生未満の方は保護者同伴でのご参加をお願いします。\n・大きなお手荷物は受付にてお預かりいたします。\n・心臓に疾患のある方、1人での移動が困難な方、妊娠中の方はご参加をお控えください。\n・お化け屋敷内で抱っこ、おんぶはしないでください。\n・お化け屋敷内で走ったり、仕掛けに触れたりしないでください。\n・リタイアを希望する場合は、近くにいるスタッフにお声掛けください。\n・ゴールした後は、懐中電灯を返却し、荷物を預けた場合は荷物を受け取るために受付に戻るようにしてください。\n・お化け屋敷内でのスマホの使用禁止",
+        "others": ""
+    },
+    {
+        "buildingName": "体育館",
+        "eventName": "ドリームランド",
+        "time": "10:00 - 16:00",
+        "description": "作って、描いて、遊んで、迷って！ ワクワクがぎゅっと詰まった夢の国。 笑顔があふれる、ここはドリームランド！ ",
+        "date": "2025-11-15",
+        "image_B": "event_dreamB.webp",
+        "image_L": "event_dreamL.webp",
+        "groupName": "工大祭実行委員会",
+        "snsLink": "",
+        "reservation": false,
+        "others": "工作コーナー、ミニゲームコーナー、迷路コーナー、アートコーナーの４つのコーナーに分かれています。\n 工作コーナーでは、スノードーム・スライム・シャボン玉の３つの内どれかひとつ選んでいただき作ってもらいます。作った工作は持ち帰っていただけます。 \nミニゲームコーナーでは、７つのゲームを用意しています。７つすべてのミニゲームに参加していただいた方には景品をお渡しします。 \nアートコーナーでは、工大祭オリジナルキャラクター達の塗り絵を楽しんでいただけます。 "
+    },
+    {
+        "buildingName": "体育館",
+        "eventName": "ドリームランド",
+        "time": "10:00 - 15:30",
+        "description": "作って、描いて、遊んで、迷って！ ワクワクがぎゅっと詰まった夢の国。 笑顔があふれる、ここはドリームランド！ ",
+        "date": "2025-11-16",
+        "image_B": "event_dreamB.webp",
+        "image_L": "event_dreamL.webp",
+        "groupName": "工大祭実行委員会",
+        "snsLink": "",
+        "reservation": false,
+        "others": "工作コーナー、ミニゲームコーナー、迷路コーナー、アートコーナーの４つのコーナーに分かれています。\n 工作コーナーでは、スノードーム・スライム・シャボン玉の３つの内どれかひとつ選んでいただき作ってもらいます。作った工作は持ち帰っていただけます。 \nミニゲームコーナーでは、７つのゲームを用意しています。７つすべてのミニゲームに参加していただいた方には景品をお渡しします。 \nアートコーナーでは、工大祭オリジナルキャラクター達の塗り絵を楽しんでいただけます。 "
+    },
+    {
+        "buildingName": "2号館前",
+        "eventName": "スタンプラリー",
+        "time": "",
+        "description": "・本部・景品交換所:2号館前  ・\nスタンプ設置場所:4号館(ブース展)\n12号館(お化け屋敷)\n23号館(喉自慢カーニバル)\n体育館(子ども企画)\n52号館(フラワー工作)",
+        "date": "",
+        "image_L": "event_stampL.webp",
+        "image_B": "event_stampB.webp",
+        "groupName": "",
+        "snsLink": "",
+        "reservation": false,
+        "others": "・各企画場所をまわってスタンプを集める。 \n・パンフレットのスタンプラリーのページにスタンプを押す。 \n・最後に2号館前の交換所で景品をもらう。 ",
+        "caution": "・景品はスタンプを集めた方のみにお渡しします。\n・景品は1人1つまでです。\n・景品の数には限りがございます。ご了承ください。 "
+    },
+    {
+        "buildingName": "23-2号館",
+        "eventName": "のど自慢カーニバル",
+        "time": "10:00-16:00",
+        "description": "あなたの好きな歌が歌えます🔥チャレンジに挑戦して景品も獲得可能かも、、、 ",
+        "date": "2025-11-15",
+        "image_B": "event_karaokeB.webp",
+        "image_L": "event_karaokeL.webp",
+        "groupName": "",
+        "snsLink": "",
+        "reservation": false,
+        "others": "一人ずつ行います(デュエットは可) ",
+        "caution": "•小学生未満の方は保護者同伴でのご参加をお願いします。 \n•大きなお手荷物は受付にてお預かりいたします。 \n•待ち時間が長くなる可能性がございます。 "
+    },
+    {
+        "buildingName": "23号館",
+        "eventName": "のど自慢カーニバル",
+        "time": "10:00-15:30",
+        "description": "あなたの好きな歌が歌えます🔥チャレンジに挑戦して景品も獲得可能かも、、、 ",
+        "date": "2025-11-16",
+        "image_L": "event_karaokeL.webp",
+        "image_B": "event_karaokeB.webp",
+        "groupName": "",
+        "snsLink": "",
+        "reservation": false,
+        "others": "一人ずつ行います(デュエットは可) ",
+        "caution": "•小学生未満の方は保護者同伴でのご参加をお願いします。 \n•大きなお手荷物は受付にてお預かりいたします。 \n•待ち時間が長くなる可能性がございます。 "
+    },
+    {
+        "buildingName": "23号館",
+        "eventName": "上空３万フィートからの脱出",
+        "time": "10:00-15:10",
+        "description": "助かる道はただ一つ――すべての謎を解き明かすこと。 制限時間内に、講義室にちりばめられた謎を解き、脱出を目指すゲームです。 3万フィートの上空で、極限のゲームが始まる･･･ ",
+        "date": "2025-11-15",
+        "image_B": "event_nazoB.webp",
+        "image_L": "event_nazoL.webp",
+        "groupName": "",
+        "snsLink": "",
+      "status":false,
+        "reservation": true,
+        "others": "23号館2321、2331、2341講義室\n受付：2322講義室 横 ",
+        "caution": "10:00より謎解き受付（2322講義室横）にて各公演の整理券を配布、なくなり次第終了。当日のみ受付。\n・1公演約１時間（謎解きの制限時間は40分） です。各公演開催時間の10分前までに2322講義室に集合してください。\nチームの人数によっては他の参加者の方々と協力して謎解きをする可能性があります。\n小学生以下は保護者の同伴を推奨します。  ",
+        "reservationSlots": [
+            {
+                "time": "10:30",
+                "status": "few_left"
+            },
+            {
+                "time": "11:10",
+                "status": "few_left"
+            },
+            {
+                "time": "11:30",
+                "status": "available"
+            },
+            {
+                "time": "12:10",
+                "status": "available"
+            },
+            {
+                "time": "12:30",
+                "status": "available"
+            },
+            {
+                "time": "13:10",
+                "status": "available"
+            },
+            {
+                "time": "13:30",
+                "status": "available"
+            },
+            {
+                "time": "14:10",
+                "status": "available"
+            },
+            {
+                "time": "14:30",
+                "status": "available"
+            },
+            {
+                "time": "15:10",
+                "status": "available"
+            }
+        ]
+    },
+    {
+        "buildingName": "23号館",
+        "eventName": "上空３万フィートからの脱出",
+        "time": "10:00-15:10",
+        "description": "助かる道はただ一つ――すべての謎を解き明かすこと。 制限時間内に、講義室にちりばめられた謎を解き、脱出を目指すゲームです。 3万フィートの上空で、極限のゲームが始まる･･･ ",
+        "date": "2025-11-16",
+        "image_L": "event_nazoL.webp",
+        "image_B": "event_nazoB.webp",
+        "groupName": "",
+        "snsLink": "",
+        "reservation": true,
+        "others": "23号館2321、2331、2341講義室\n受付：2322講義室 横 ",
+        "caution": "10:00より謎解き受付（2322講義室横）にて各公演の整理券を配布、なくなり次第終了。当日のみ受付。\n・1公演約１時間（謎解きの制限時間は40分） です。各公演開催時間の10分前までに2322講義室に集合してください。\nチームの人数によっては他の参加者の方々と協力して謎解きをする可能性があります。\n小学生以下は保護者の同伴を推奨します。",
+        "reservationSlots": [
+            {
+                "time": "10:30",
+                "status": "few_left"
+            },
+            {
+                "time": "11:10",
+                "status": "few_left"
+            },
+            {
+                "time": "11:30",
+                "status": "available"
+            },
+            {
+                "time": "12:10",
+                "status": "available"
+            },
+            {
+                "time": "12:30",
+                "status": "available"
+            },
+            {
+                "time": "13:10",
+                "status": "available"
+            },
+            {
+                "time": "13:30",
+                "status": "available"
+            },
+            {
+                "time": "14:10",
+                "status": "available"
+            },
+            {
+                "time": "14:30",
+                "status": "available"
+            }
+        ]
+    },
+    {
+        "buildingName": "",
+        "eventName": "",
+        "time": "",
+        "description": "",
+        "date": "",
+        "image": "",
+        "groupName": "",
+        "snsLink": "",
+        "reservation": false,
+        "others": "",
+        "caution": ""
+    },
+    {
+        "buildingName": "",
+        "eventName": "",
+        "time": "",
+        "description": "",
+        "date": "",
+        "image": "",
+        "groupName": "",
+        "snsLink": "",
+        "reservation": false,
+        "others": "",
+        "caution": ""
+    },
+    {
+        "buildingName": "",
+        "eventName": "",
+        "time": "",
+        "description": "",
+        "date": "",
+        "image": "",
+        "groupName": "",
+        "snsLink": "",
+        "reservation": false,
+        "others": "",
+        "caution": ""
+    },
+    {
+        "buildingName": "",
+        "eventName": "",
+        "time": "",
+        "description": "",
+        "date": "",
+        "image": "",
+        "groupName": "",
+        "snsLink": "",
+        "reservation": false,
+        "others": "",
+        "caution": ""
+    },
+    {
+        "buildingName": "",
+        "eventName": "",
+        "time": "",
+        "description": "",
+        "date": "",
+        "image": "",
+        "groupName": "",
+        "snsLink": "",
+        "reservation": false,
+        "others": "",
+        "caution": ""
+    },
+    {
+        "buildingName": "",
+        "eventName": "",
+        "time": "",
+        "description": "",
+        "date": "",
+        "image": "",
+        "groupName": "",
+        "snsLink": "",
+        "reservation": false,
+        "others": "",
+        "caution": ""
+    }
+]
