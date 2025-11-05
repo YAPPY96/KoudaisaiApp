@@ -245,12 +245,14 @@ jQuery(document).ready(function($) {
         let html = '<div class="kjm-field">';
         html += `<label>${escapeHtml(key)}</label>`;
         
-        if (typeof value === 'boolean') {
+        // statusとreservationキー、または値がブール値の場合はトグルスイッチを表示
+        if (key === 'status' || key === 'reservation' || typeof value === 'boolean') {
+            const isTrue = value === true || value === 'true';
             html += `
                 <div class="kjm-toggle">
-                    <div class="kjm-toggle-switch ${value ? 'active' : ''}" data-path="${path}" data-value="${value}">
+                    <div class="kjm-toggle-switch ${isTrue ? 'active' : ''}" data-path="${path}" data-value="${isTrue}">
                     </div>
-                    <span class="kjm-toggle-label">${value ? '有効' : '無効'}</span>
+                    <span class="kjm-toggle-label">${isTrue ? '有効' : '無効'}</span>
                 </div>
             `;
         } else if (typeof value === 'string' && value.length > 100) {
@@ -424,7 +426,11 @@ jQuery(document).ready(function($) {
                 const path = $(this).data('path');
                 if (!path) return;
                 
-                const value = $(this).data('value');
+                let value = $(this).data('value');
+                // data-valueから取得した値は文字列の"true" "false"になるため、ブール値に変換
+                if (typeof value === 'string') {
+                    value = value === 'true';
+                }
                 setNestedValue(data, path, value);
             });
         } else {
@@ -464,7 +470,7 @@ jQuery(document).ready(function($) {
     
     // ネストされた値の設定
     function setNestedValue(obj, path, value) {
-        const keys = path.replace(/\[(\d+)\]/g, '.$1').split('.');
+        const keys = path.replace(/\[(\d+)\]/g, '.$1').replace(/^\./, '').split('.');
         let current = obj;
         
         for (let i = 0; i < keys.length - 1; i++) {
