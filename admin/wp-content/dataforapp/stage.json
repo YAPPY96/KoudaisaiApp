@@ -1,26 +1,24 @@
 [
   {
-    "eventName": "学生ステージ企画 Harmony",
+    "eventName": "学生ステージ企画 ",
     "time": "10:00 - 11:50", 
     "groupName": "名古屋工業大学吹奏楽部,三弦,名古屋工業大学 アカペラサークル Grazie!!,glitter ",
     "description": "みなさんが一度は聴いたことのあるミセスや嵐のメドレーを演奏しますのでぜひ聴きにきてみてください！ (名古屋工業大学吹奏楽部)\n津軽三味線の伝統の音、エレキギターと奏でる新たな体験を。(三弦)\n聞いたことのあるあの曲やこの曲を用意していますのでぜひ楽しんでいってください！ (名古屋工業大学 アカペラサークル Grazie!!)K-POPや日本のアイドルの曲のカバーダンスをお届けします！必見です！！ (glitter)",
     "date": "2025-11-15",
     "caution":"以下の行為を禁止とします。\n1.ダイブ・サークル・モッシュなどの危険行為 \n2.飛び入り参加など事前告知がない行為 \n3.食品提供行為 \n4.火を扱う行為 \n5.関係者以外が許可なく控えテント・PAテント・ステージなどに立ち入る行為 \n6.ステージの上、ステージ周辺での布教活動や、許可のない宣伝にあたる行為 \n7.グッズを販売する行為 \n8.ステージ上にて25人を超えてのダンス等、激しい動きをする行為 \n9.その他、暴行など明らかな危険行為や、犯罪にあたる行為 ",
     "others":"",
-    "image_B":"",
-    "image_L":""
+    "image_L":"stage_harmonyL.webp"
   },
 
   {
-    "eventName": "模擬店PR",
+    "eventName": "模擬展PR",
     "time": "11:55 - 12:15",
-    "description": "模擬店を出店している団体の代表者さんに自身の模擬店のPRをしてもらいます！",
+    "description": "模擬店出店者がステージ上で模擬店のPRを行います！",
     "date": "2025-11-15",
-    "groupName": "工大祭実行委員会模擬局",
+    "groupName": "各模擬店出店者出店者",
     "caution":"",
     "others":"",
-    "image_B":"stage_mogitenkeijiB.webp",
-    "image_L":"stage_mogitenkeijiL.webp"
+    "image":"stage_mogitenkeijiB.webp"
   },
   {
     "eventName": "SPAX",
@@ -31,8 +29,7 @@
     "caution":"ビンゴで使用する抽選券は開始前に2号館ステージ前にて配布を予定しています。 ",
     "others":"",
     "instagram":"https://www.instagram.com/spaxspace/",
-    "image_B":"stage_spaxB.webp",
-    "image_L":"stage_spaxL.webp"
+    "image_B":"stage_spaxB.webp"
   },
   {
     "eventName": "昼選会",
@@ -53,8 +50,7 @@
     "groupName": "工大祭実行委員会",
     "caution":"",
     "others":"",
-    "image_L":"stage_minigameL.webp",
-    "image_B":"stage_minigameB.webp"
+    "image":"stage_minigameL.webp"
   },
   {
     "eventName": "名工大王",
@@ -64,7 +60,7 @@
     "groupName": "工大祭実行委員会",
     "caution":"名工大王の予想の投票は予選の途中で締め切らせていただきます。オンラインクイズは予選中のみ参加可能です",
     "others":"",
-    "image_L":"stage_meikoudaiOL"
+    "image_L":"stage_meikoudaiOL.webp"
   },
   {
     "eventName": "中夜祭",
@@ -74,8 +70,7 @@
     "groupName": "工大祭実行委員会",
     "caution":"1.撮影・録音等、記録行為は禁止です。\n2.飲酒・喫煙は禁止です。\n3.主催者および出演者は、お荷物の紛失や盗難に対して一切の責任を負いません。\n4.主催者および出演者は、お客様同士のトラブルの責任を一切負いません。\n5.工大祭スタッフの指示に従わない場合、退場していただく場合や企画を中断または中止する場合があります。",
     "others":"",
-    "image_L":"stage_tyuyaL.webp",
-    "image_B":"stage_tyuyaB.webp"
+    "image":"stage_tyuyaL.webp"
   },
   {
     "eventName": "学生ステージ",
@@ -85,40 +80,38 @@
     "groupName": "DFC,金城学院大学ダンス部BEAT ,ǝspoir,NIT PACOD ",
     "caution":"",
     "others":"",
-    "image_L":""
+        "image_L":"stage_harmonyL.webp"
   },
   {
     "eventName": "模擬店PR",
     "time": "12:05 - 12:35",
-    "description": "模擬店を出店している団体の代表者さんに自身の模擬店のPRをしてもらいます！",
-    "date": "2025-11-15",
-    "groupName": "工大祭実行委員会模擬局",
-    "caution":"",
-    "others":"",
-    "image_B":"stage_mogitenkeijiB.webp",
-    "image_L":"stage_mogitenkeijiL.webp"
-  },
-  {
-    "eventName": "アイドル企画",
-    "time": "12:45 - 13:55",
-    "description": "アイドルによるパフォーマンスが行われます！今年は3組のアイドルが登場！ぜひお楽しみください！",
-    "date": "2025-11-16",
-    "groupName": "ちぃたん☆,愛知flavor,わんキル",
-    "caution":"",
-    "others":"",
-    "image_B":"stage_idolB.webp",
-    "image_L":"stage_idolL.webp"
-  },
-  
-  {
-    "eventName": "ZIP",
-    "time": "14:05 - 15:05",
-    "description": "",
+    "description": "模擬店出店者がステージ上で模擬店のPRを行います！",
     "date": "2025-11-16",
     "groupName": "",
     "caution":"",
     "others":"",
-    "image":""
+    "image":"stage_mogitenkeijiB.webp"
+  },
+  {
+    "eventName": "アイドル企画",
+    "time": "12:45 - 13:55",
+    "description": "アイドルがステージでパフォーマンスを行います！！",
+    "date": "2025-11-16",
+    "groupName": "",
+    "caution":"以下の行為を禁止します。\n・ダイブ・サークル・モッシュなどの危険行為\n・飛び入り参加など事前告知がない行為\n・食品提供行為\n・火を扱う行為\n・関係者以外が許可なく控えテント・PAテント・ステージなどに立ち入る行為\n・ステージの上、ステージ周辺での布教活動や、許可のない宣伝にあたる行為\n・その他、暴行など明らかな危険行為や、犯罪にあたる行為",
+    "others":"",
+    "image_B":"stage_idolB.webp"
+  },
+  {
+    "eventName": "ZIP",
+    "time": "14:05 - 15:05",
+    "description": "『ZIP-FM×工大祭SPECIAL TALK LIVE supported by 中電シーティーアイ』大人気ラジオ局ZIP-FMと工大祭の内容盛りだくさんのコラボステージ！ ZIP-FMナビゲーターであり芸人の町田こーすけさん、 超E人世聞（ちょういいひとせぶん）さんによるトークライブを行います！",
+    "date": "2025-11-16",
+    "groupName": "ZIP-FM",
+    "caution":"録音・録画・写真撮影などの記録行為は禁止します（主催者が撮影する場合を除く）",
+    "others":"",
+    "image_L":"stage_zipL.webp",
+        "image_B":"stage_zipB.webp"
   },
   {
     "eventName": "学祭企画",
@@ -128,16 +121,16 @@
     "groupName": "",
     "caution":"",
     "others":"今年から始まる新しい企画です！これからの大学祭を全力で盛り上げます！来年度もぜひご期待ください！",
-    "image":""
+    "image_L":"stage_gakuseiL.webp"
   },
   {
     "eventName": "後夜祭",
     "time": "16:10 - 18:20",
-    "description": "",
+    "description": "工大祭の最後を飾るステージ企画です！豪華景品が当たる抽選会やみんなで踊る名工ダンス、サイリウムパフォーマンスなど全員が一体となって楽しめる企画を準備中です。最後には第63回工大祭を振り返るプロジェクションマッピングも投影します！",
     "date": "2025-11-16",
     "groupName": "",
     "caution":"",
     "others":"",
-    "image":"stage_koyaL.webp"
+    "image_L":"stage_koyaL.webp"
   }
 ]

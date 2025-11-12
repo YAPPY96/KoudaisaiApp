@@ -122,6 +122,15 @@ function jfek_restricted_editor_shortcode($atts) {
     $atts = shortcode_atts(['file' => 'announcements.json'], $atts, 'announcement_editor_kind');
     $file_to_edit = sanitize_file_name($atts['file']);
 
+<<<<<<< Updated upstream
+=======
+    // Whitelist the files that can be edited.
+    $allowed_files = ['5253.json', 'events.json', 'announcements.json'];
+    if (!in_array($file_to_edit, $allowed_files)) {
+        return '<div class="jfek-error">エラー: このファイルの編集は許可されていません。</div>';
+    }
+
+>>>>>>> Stashed changes
     // Enqueue scripts and styles
     wp_enqueue_script('jfek-public-script', plugin_dir_url(__FILE__) . 'public-script.js', ['jquery'], '1.1', true);
     wp_localize_script('jfek-public-script', 'jfekAjax', [
@@ -180,7 +189,13 @@ class JFEK_Restricted_Editor_AJAX {
     public function __construct() {
         $this->json_dir = WP_CONTENT_DIR . '/dataforapp/';
         add_action('wp_ajax_jfek_load_json', [$this, 'ajax_load_json']);
+<<<<<<< Updated upstream
         add_action('wp_ajax_jfek_save_json', [$this, 'ajax_save_json']);
+=======
+        add_action('wp_ajax_nopriv_jfek_load_json', [$this, 'ajax_load_json']);
+        add_action('wp_ajax_jfek_save_json', [$this, 'ajax_save_json']);
+        add_action('wp_ajax_nopriv_jfek_save_json', [$this, 'ajax_save_json']);
+>>>>>>> Stashed changes
     }
 
     public function ajax_load_json() {
@@ -222,6 +237,7 @@ class JFEK_Restricted_Editor_AJAX {
         $original_data = json_decode(file_get_contents($filepath), true);
 
         if ($file === 'events.json') {
+<<<<<<< Updated upstream
             $allowed_fields = ['status', 'reservation', 'reservationSlots', 'waitinglist', 'waitingSumSelect'];
             foreach ($new_data as $index => &$event) {
                 // Also need to allow the fields that are not editable, but are part of the event object
@@ -229,9 +245,72 @@ class JFEK_Restricted_Editor_AJAX {
                 foreach ($event as $key => $value) {
                     if (!in_array($key, $allowed_fields) && isset($original_data[$index][$key]) && $original_data[$index][$key] !== $value) {
                         wp_send_json_error("`{$key}` a field that cannot be edited.");
+=======
+            $allowed_statuses = ['available', 'few_left', 'closed', 'full'];
+            $processed_data = [];
+
+            foreach ($original_data as $index => $original_event) {
+                if (!isset($new_data[$index])) continue;
+
+                $updated_event = $original_event;
+                $submitted_event = $new_data[$index];
+
+                if (isset($submitted_event['status'])) {
+                    $updated_event['status'] = ($submitted_event['status'] === true || $submitted_event['status'] === 'true');
+                }
+                if (isset($submitted_event['waitingSumSelect'])) {
+                    $updated_event['waitingSumSelect'] = absint($submitted_event['waitingSumSelect']);
+                }
+                if (isset($submitted_event['reservationSlots']) && is_array($submitted_event['reservationSlots'])) {
+                    $validated_slots = [];
+                    foreach ($submitted_event['reservationSlots'] as $slot) {
+                        if (isset($slot['time']) && isset($slot['status']) && in_array($slot['status'], $allowed_statuses)) {
+                            $validated_slots[] = [
+                                'time' => sanitize_text_field($slot['time']),
+                                'status' => sanitize_text_field($slot['status']),
+                            ];
+                        }
+>>>>>>> Stashed changes
                     }
+                    $updated_event['reservationSlots'] = $validated_slots;
+                }
+                
+                $processed_data[] = $updated_event;
+            }
+
+            if (count($processed_data) !== count($original_data)) {
+                wp_send_json_error('イベントの削除は許可されていません。');
+            }
+            $new_data = $processed_data;
+        } elseif ($file === 'announcements.json') {
+            $processed_data = [];
+            $existing_ids = array_column($original_data, 'id');
+            $max_id = count($existing_ids) > 0 ? max($existing_ids) : 0;
+
+            foreach ($new_data as $index => $submitted_item) {
+                // Check if it's a new item or an existing one
+                if (isset($submitted_item['id']) && in_array($submitted_item['id'], $existing_ids)) {
+                    // Existing item
+                    $original_item = $original_data[array_search($submitted_item['id'], $existing_ids)];
+                    $updated_item = $original_item;
+                    $updated_item['message'] = sanitize_textarea_field($submitted_item['message']);
+                    $updated_item['enabled'] = ($submitted_item['enabled'] === true || $submitted_item['enabled'] === 'true');
+                    $processed_data[] = $updated_item;
+                } else {
+                    // New item
+                    $max_id++;
+                    $new_item = [
+                        'id' => $max_id,
+                        'message' => sanitize_textarea_field($submitted_item['message']),
+                        'date' => current_time('Y-m-d'),
+                        'important' => false,
+                        'new' => true,
+                        'enabled' => ($submitted_item['enabled'] === true || $submitted_item['enabled'] === 'true')
+                    ];
+                    $processed_data[] = $new_item;
                 }
             }
+<<<<<<< Updated upstream
         } elseif ($file === 'announcements.json') {
             if (count($new_data) < count($original_data)) {
                 wp_send_json_error('Announcements cannot be deleted.');
@@ -239,6 +318,25 @@ class JFEK_Restricted_Editor_AJAX {
         }
 
         if (file_put_contents($filepath, json_encode($new_data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE)) === false) {
+=======
+            if (count($new_data) < count($original_data)) {
+                wp_send_json_error('お知らせの削除は許可されていません。');
+            }
+            $new_data = $processed_data;
+        } elseif ($file === '5253.json') {
+            $processed_data = [];
+            foreach ($original_data as $key => $original_item) {
+                if (isset($new_data[$key])) {
+                    $updated_item = $original_item;
+                    $updated_item['status'] = ($new_data[$key]['status'] === true || $new_data[$key]['status'] === 'true');
+                    $processed_data[$key] = $updated_item;
+                }
+            }
+            $new_data = $processed_data;
+        }
+
+        if (file_put_contents($filepath, json_encode($new_data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES)) === false) {
+>>>>>>> Stashed changes
             wp_send_json_error('ファイルの保存に失敗しました。');
         }
 
